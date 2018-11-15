@@ -14,3 +14,11 @@ __This will also be bold__
 
 http://github.com - automatic!
 [GitHub](http://github.com)
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
