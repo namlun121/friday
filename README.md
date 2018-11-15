@@ -4,3 +4,5 @@
 **This is bold text**
 
 *This text is italicized*
+
+__This will also be bold__
